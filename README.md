@@ -6,8 +6,8 @@ To set up the project locally, follow these steps
 
 ## 1. Clone the repository and go to that folder
 ```
-git clone https://github.com/gurdittcancode/repo_name
-cd repo_name
+git clone https://github.com/gurdittcancode/bookshelf-marq-equity
+cd bookshelf-marq-equity
 ```
 
 ## 2. Install the dependencies (I'm using pnpm)
